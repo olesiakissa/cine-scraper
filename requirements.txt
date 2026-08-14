@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+scrapegraphai
+scrapegraph-py
+langchain-google-genai
+pydantic==2.13.4
+pytest
